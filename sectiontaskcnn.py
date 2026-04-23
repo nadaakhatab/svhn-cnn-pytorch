@@ -1,7 +1,4 @@
-"""
-Original file is located at:
-https://colab.research.google.com/drive/1gRL-ToBzRYG1k9WOPunAB51KgVAxFtPE
-"""
+
 #imports and device
 import torch
 import torch.nn as nn
