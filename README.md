@@ -1,12 +1,5 @@
 # CNN Image Classification Project (SVHN)
 
-## Student Information
-- Name: Nada Mohamed Khatab  
-- ID: 4231230  
-- Section: A2 Cyber  
-- Department: Bioinformatics  
-- Task: Build a CNN model for image classification using PyTorch  
-
 ## Project Description
 This project uses a Convolutional Neural Network (CNN) to classify images of digits from 
 ""the SVHN dataset.""
